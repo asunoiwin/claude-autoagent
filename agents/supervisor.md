@@ -42,6 +42,7 @@ color: blue
 | planning | Plan agent | Plan |
 | implementation | general-purpose | general-purpose |
 | audit | code-reviewer | pr-review-toolkit:code-reviewer |
+| i18n-audit | i18n-auditor | 直接用 name: i18n-auditor |
 | documentation | general-purpose | general-purpose |
 
 ### 3. 依赖管理
